@@ -1,11 +1,11 @@
-#Ejercios Grupal: Iconos y Tripticos  
+#Ejercios Grupal: Iconos y Tripticos#
 
-Se esta enlazando en el HTML principal con los 2 ejercicios hechos en clase:  
+Se esta enlazando en el HTML principal con los 2 ejercicios grupales hechos en clase:  
 
 1. Tríptico  
 2. Iconos  
 
-##INTEGRANTES
+##INTEGRANTES##
 
 *Brenda Mesias  
 
