@@ -1,0 +1,33 @@
+/* Envuelve todos los divs con cassificacion "clase": tripticos */
+#contenedor {
+height: 700px;
+width: 800px;
+}
+
+/* se establece los valores para que el título principal este alineado con una lineado negro conteniendolo y su texto centrado */
+.titulo {
+  outline: 1px solid black;
+   text-align: center;
+   background-color: #ffc107;
+   width: 797px;
+   float: left;
+}
+
+/*se le indica a los 3 parrafos la posición float para que esten al lado del otro*/
+.triptico {
+text-align: center;
+width: 266px;
+height: 500px;
+padding: 10px;
+border: 1px solid black;
+box-sizing: border-box;
+float: left;
+}
+/*dando estilo y posición al footer/pie de pagina*/
+.piePagina {
+  outline: 1px solid black;
+  text-align: center;
+  background-color: #ffc107;
+  width: 797px;
+  float: left;
+}
